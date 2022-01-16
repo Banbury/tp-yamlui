@@ -1,0 +1,15 @@
+{
+  "name": "@banbury/tp-yamlui",
+  "version": "1.0.0",
+  "description": "Create UIs for Tabletop Playground with YAML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Banbury",
+  "license": "MIT",
+  "dependencies": {
+    "@tabletop-playground/api": "^0.23.1",
+    "js-yaml": "^4.1.0"
+  }
+}
